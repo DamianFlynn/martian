@@ -1,8 +1,8 @@
 {
-  "name": "@prius.ai/martian",
-  "version": "1.2.5",
+  "name": "@damianflynn/martian",
+  "version": "1.2.6",
   "description": "Converts Markdown to Notion Blocks and RichText",
-  "repository": "https://github.com/PriusAI/martian",
+  "repository": "https://github.com/damianflynn/martian",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
   "scripts": {
